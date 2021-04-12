@@ -1,0 +1,9 @@
+1. nltk  
+2. spacy  
+3. transformers  
+4. sentencepiece  
+5. pytorch-crf
+6. torch
+7. numpy
+8. pandas
+9. en_core_Sci_sm
